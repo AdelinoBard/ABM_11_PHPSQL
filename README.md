@@ -1,1 +1,31 @@
-# ABM_11_PHPSQL
+# Projeto PHP + SQL
+
+Este é um pequeno projeto de exemplo utilizando PHP e SQL para demonstrar operações básicas de autenticação e consulta a banco de dados.
+
+## Estrutura do Projeto
+
+- `login.php`: Tela e lógica de login de usuários.
+- `query.php`: Página para realizar consultas SQL após autenticação.
+- `sqltest.php`: Script de teste para conexão e execução de comandos SQL.
+- `README.md`: Este arquivo de documentação.
+
+## Pré-requisitos
+
+- Servidor web com suporte a PHP (ex: XAMPP, WAMP, Apache + PHP)
+- Banco de dados MySQL ou MariaDB
+
+## Como usar
+
+1. Clone ou copie os arquivos para o diretório do seu servidor web.
+2. Configure as credenciais de acesso ao banco de dados nos arquivos PHP, se necessário.
+3. Importe o banco de dados (caso exista um script SQL fornecido).
+4. Acesse `login.php` pelo navegador para iniciar.
+
+## Observações
+
+- Certifique-se de que o servidor web e o banco de dados estejam em execução.
+- Para testes, utilize usuários cadastrados previamente no banco de dados.
+
+## Licença
+
+Este projeto é apenas para fins de estudo e demonstração.
