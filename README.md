@@ -1,6 +1,6 @@
 # Projeto PHP + SQL
 
-Este é um pequeno projeto de exemplo utilizando PHP e SQL para demonstrar operações básicas de autenticação e consulta a banco de dados.
+Projeto simples de exemplo utilizando PHP e SQL para demonstrar operações básicas de autenticação e consulta a banco de dados.
 
 ## Estrutura do Projeto
 
