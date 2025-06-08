@@ -26,6 +26,12 @@ Este é um pequeno projeto de exemplo utilizando PHP e SQL para demonstrar opera
 - Certifique-se de que o servidor web e o banco de dados estejam em execução.
 - Para testes, utilize usuários cadastrados previamente no banco de dados.
 
+## Exemplo de execução
+
+Abaixo, uma captura de tela da aplicação em funcionamento:
+
+![Execução do programa](Screenshot%202025-06-08%20181421.png)
+
 ## Licença
 
 Este projeto é apenas para fins de estudo e demonstração.
